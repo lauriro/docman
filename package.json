@@ -1,0 +1,21 @@
+{
+  "name": "docman",
+  "version": "0.0.0",
+  "description": "Expiremental generator for readme files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lauriro/docman.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Lauri Rooden <lauri@rooden.ee>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lauriro/docman/issues"
+  }
+}
